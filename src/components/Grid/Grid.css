@@ -1,0 +1,34 @@
+.grid-wrapper
+{
+    width: 500px;
+}
+
+.grid
+{
+    border: 1px solid white;
+    display: flex;
+    height: 500px;
+    width: 500px;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+.currentTurn
+{
+    color: white;
+}
+
+.turnHighlight
+{
+    color: white;
+}
+
+.resetButton
+{
+    color: white;
+    padding: 1rem;
+    background-color: green;
+    border-radius: 1rem;
+    border: none;
+    width: 100%;
+}
