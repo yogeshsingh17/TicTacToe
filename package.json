@@ -1,5 +1,6 @@
 {
   "name": "tictactoe",
+  "homepage": "https://yogeshsingh17.github.io/TicTacToe",
   "private": true,
   "version": "0.0.0",
   "type": "module",
